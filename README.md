@@ -1,2 +1,3 @@
 # hello-world
-This is my first repository for gitHUB
+This is copy of Master
+Making changes to explore GITHUB
